@@ -77,3 +77,5 @@ We can reject the null hypothesis because the p-value is less than 0.05.This mea
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+Based upon the information presented above it is safe to say that we can reject the null hypothesis, which states that the preventative aids drug would have no effect on whether or not females contracted aids. From the studies shown, it seems that females who received the drug ended up being more likely to contract aids, meaning that it did have an effect on females.
